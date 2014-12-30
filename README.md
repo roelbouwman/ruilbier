@@ -1,3 +1,5 @@
+Ruilbier webapp gemaakt met yii2 advanced template, zie instructies hieronder voor installatie.
+
 Yii 2 Advanced Application Template
 ===================================
 
@@ -57,26 +59,7 @@ The minimum requirement by this application template that your Web server suppor
 
 INSTALLATION
 ------------
-
-### Install from an Archive File
-
-Extract the archive file downloaded from [yiiframework.com](http://www.yiiframework.com/download/) to
-a directory named `advanced` that is directly under the Web root.
-
-Then follow the instructions given in "GETTING STARTED".
-
-
-### Install via Composer
-
-If you do not have [Composer](http://getcomposer.org/), you may install it by following the instructions
-at [getcomposer.org](http://getcomposer.org/doc/00-intro.md#installation-nix).
-
-You can then install the application using the following command:
-
-~~~
-php composer.phar global require "fxp/composer-asset-plugin:1.0.0-beta4"
-php composer.phar create-project --prefer-dist --stability=dev yiisoft/yii2-app-advanced advanced
-~~~
+put entire directory in /var/www/ruilbier
 
 
 GETTING STARTED
