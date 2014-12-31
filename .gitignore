@@ -1,3 +1,6 @@
+# exclude config environments 
+environments/prod/common/config/main-local.php
+
 # yii console command
 /yii
 
