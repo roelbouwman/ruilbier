@@ -9,7 +9,7 @@ $this->title = 'Thuisbrouwers ruilen bieren';
 
     <div class="jumbotron">
 
-        <h1>Bier ruilen!</h1>
+        <h1>!Bier ruilen!</h1>
 
         <p class="lead">Een platform voor het ruilen van thuis gebrouwen bieren.</p>
 
